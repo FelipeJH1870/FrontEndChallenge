@@ -11,33 +11,14 @@ node_modules
 bin
 # static
 routes
-vendor
 
 tmp
 
-*.html
-
-views/*.pug
-views/layouts/main0.hbs
-views/layouts/main1.hbs
-views/layouts/main2.hbs
-views/layouts/main3.hbs
-views/layouts/main4.hbs
-views/layouts/main5.hbs
-views/layouts/main6.hbs
-views/layouts/main7.hbs
-views/layouts/main8.hbs
-views/layouts/main9.hbs
-
-# static/css
-static/DataTables
-static/js
-static/lib
-static/imagenes
-static/img
-
 imagenes
 img
+DataTables
+lib
+vendor
 
 app1.js
 app0.js
