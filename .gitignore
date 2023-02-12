@@ -4,7 +4,7 @@ node_modules
 .gitignore
 
 # npm
-package-lock.json
+#package-lock.json
 
 # views
 
