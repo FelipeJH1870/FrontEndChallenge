@@ -9,7 +9,7 @@ package-lock.json
 # views
 
 bin
-static
+# static
 routes
 vendor
 
@@ -18,6 +18,10 @@ tmp
 *.html
 
 views/*.pug
+static/css
+static/DataTables
+static/js
+static/lib
 
 
 app1.js
