@@ -5,3 +5,20 @@ node_modules
 
 # npm
 package-lock.json
+
+# views
+views
+bin
+static
+routes
+vendor
+
+tmp
+
+*.html
+
+views/*.pug
+
+
+app1.js
+app0.js
