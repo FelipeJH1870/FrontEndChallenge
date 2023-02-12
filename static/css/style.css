@@ -119,6 +119,24 @@ header .navbar-brand img{
     cursor: pointer;
 }
 
+#ventana_buscar2 .icon-cerrar {
+    color: rgb(243, 91, 21);	
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    cursor: pointer;
+}
+
+.container-btn {
+	
+	color: rgb(230, 104, 31) !important;
+	
+    position: fixed;
+    top: 115px;
+    right: 20px;
+    z-index: 100;
+}
+
 .icon-cerrar::before{
     background:transparent;
 }
