@@ -18,6 +18,7 @@ tmp
 *.html
 
 views/*.pug
+views/layouts/main0.hbs
 views/layouts/main1.hbs
 views/layouts/main2.hbs
 views/layouts/main3.hbs
