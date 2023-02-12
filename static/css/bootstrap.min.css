@@ -1443,6 +1443,26 @@ img {
     vertical-align: middle
 }
 
+.img-table{
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+    /* display: inline-block; */
+    /* max-width: 100%; */
+    /* height: auto; */
+    
+    height: 25%; 
+    padding: 4px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out
+}
+
 .carousel-inner>.item>a>img,
 .carousel-inner>.item>img,
 .img-responsive,
