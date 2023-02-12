@@ -18,10 +18,16 @@ tmp
 *.html
 
 views/*.pug
+views/layouts/main1.hbs
+views/layouts/main2.hbs
+views/layouts/main3.hbs
+views/layouts/main4.hbs
+
 static/css
 static/DataTables
 static/js
 static/lib
+static/imagenes
 
 
 app1.js
