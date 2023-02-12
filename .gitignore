@@ -24,7 +24,7 @@ views/layouts/main2.hbs
 views/layouts/main3.hbs
 views/layouts/main4.hbs
 
-static/css
+# static/css
 static/DataTables
 static/js
 static/lib
