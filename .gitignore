@@ -1,11 +1,7 @@
 # Nodejs
 node_modules
 
+.gitignore
+
 # npm
 package-lock.json
-
-# environment variables
-.env
-
-## dist
-dist
