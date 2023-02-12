@@ -1,0 +1,24 @@
+{
+  "name": "frontendchallenge",
+  "version": "1.0.0",
+  "description": "Front End Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeJH1870/FrontEndChallenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeJH1870/FrontEndChallenge/issues"
+  },
+  "homepage": "https://github.com/FelipeJH1870/FrontEndChallenge#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
